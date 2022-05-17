@@ -1,12 +1,4 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. NIhar Ranjan Mohapatra](https://iitgn.ac.in/faculty/ee/fac-nihar). I currently work on designing an efficient Reconfigurable FET.
 
