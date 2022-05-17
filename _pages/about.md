@@ -1,13 +1,3 @@
-
----
-permalink: /
-title: "D Sharda Devi"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. NIhar Ranjan Mohapatra](https://iitgn.ac.in/faculty/ee/fac-nihar). I currently work on designing an efficient Reconfigurable FET.
 * [Detailed CV](https://drive.google.com/file/d/1D6B174anZdK0CyChXLqFc-WIMe4AHl98/view?usp=sharing)
 
@@ -22,6 +12,10 @@ Research interests
 
 ⇒ High throughput computational devices and circuits
 
+Education
+======
+* PhD in Electrical Engineering
+====== IIT Gandhinagar, 2020-present   
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
