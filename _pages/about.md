@@ -6,8 +6,11 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, II
 Research interests
 ======
 ⇒ 2D materials and devices
+
 ⇒ 2D Reconfigurable FETs
+
 ⇒ Nanoscale devices
+
 ⇒ High throughput computational devices and circuits
 
 Getting started
