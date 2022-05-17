@@ -53,20 +53,28 @@ Guide: Dr.Yatindra Nath Singh, Professor, IIT Kanpur
 
 Technical skills
 ======
-**EDA Tools**- Synopsys Quantum ATK, Synopsys TCAD, Cadence Virtuoso, Synopsys dc-shell, Synopsys
+**EDA Tools -** Synopsys Quantum ATK, Synopsys TCAD, Cadence Virtuoso, Synopsys dc-shell, Synopsys
 
 VCS, Xilinx ISE Design Suite, MATLAB
 
-**Programming**- Python3, Verilog, C++, My SQL, LISP, HTML
+**Programming -** Python3, Verilog, C++, My SQL, LISP, HTML
 
 Relevant courses
 ======
 ⇒ Electronic Devices and Circuits
+
 ⇒ Analog Integrated Circuits
+
 ⇒ Digital System Design
+
 ⇒ VLSI Design
+
 ⇒ Probability and Stochastic Processes
+
 ⇒ Physics of Transistors
+
 ⇒ Microelectronics lab
+
 ⇒ Analog CMOS IC design
+
 ⇒ Microfabrication
