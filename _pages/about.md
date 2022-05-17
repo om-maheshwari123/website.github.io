@@ -4,13 +4,13 @@ I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, II
 
 Research interests
 ======
-⇒ 2D materials and devices
+ ⇒ 2D materials and devices
 
-⇒ 2D Reconfigurable FETs
+ ⇒ 2D Reconfigurable FETs
 
-⇒ Nanoscale devices
+ ⇒ Nanoscale devices
 
-⇒ High throughput computational devices and circuits
+ ⇒ High throughput computational devices and circuits
 
 Education
 ======
@@ -56,28 +56,28 @@ June 2019:** **SURGE 2019**, IIT Kanpur
 
 Technical skills
 ======
-**EDA Tools -** Synopsys Quantum ATK, Synopsys TCAD, Cadence Virtuoso, Synopsys dc-shell, Synopsys
+* **EDA Tools -** Synopsys Quantum ATK, Synopsys TCAD, Cadence Virtuoso, Synopsys dc-shell, Synopsys
 
 VCS, Xilinx ISE Design Suite, MATLAB
 
-**Programming -** Python3, Verilog, C++, My SQL, LISP, HTML
+* **Programming -** Python3, Verilog, C++, My SQL, LISP, HTML
 
 Relevant courses
 ======
-⇒ Electronic Devices and Circuits
+ ⇒ Electronic Devices and Circuits
 
-⇒ Analog Integrated Circuits
+ ⇒ Analog Integrated Circuits
 
-⇒ Digital System Design
+ ⇒ Digital System Design
 
-⇒ VLSI Design
+ ⇒ VLSI Design
 
-⇒ Probability and Stochastic Processes
+ ⇒ Probability and Stochastic Processes
 
-⇒ Physics of Transistors
+ ⇒ Physics of Transistors
 
-⇒ Microelectronics lab
+ ⇒ Microelectronics lab
 
-⇒ Analog CMOS IC design
+ ⇒ Analog CMOS IC design
 
-⇒ Microfabrication
+ ⇒ Microfabrication
