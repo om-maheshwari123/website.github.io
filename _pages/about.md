@@ -50,7 +50,7 @@ Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
 * **May 2019-
 June 2019:** **SURGE 2019**, IIT Kanpur
 
-  * * Topic: Event-driven simulation for optical networks
+  * Topic: Event-driven simulation for optical networks
 
 Guide: Dr.Yatindra Nath Singh, Professor, IIT Kanpur
 
