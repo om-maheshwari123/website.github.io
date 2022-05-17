@@ -64,7 +64,7 @@ VCS, Xilinx ISE Design Suite, MATLAB
 
 Relevant courses
 ======
- ⇒ Electronic Devices and Circuits
+   ⇒ Electronic Devices and Circuits
 
  ⇒ Analog Integrated Circuits
 
