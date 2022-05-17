@@ -17,6 +17,43 @@ Education
 * **PhD in Electrical Engineering**, IIT Gandhinagar, 2020-present
 * **B.Tech in Electronics and Telecommunication**, NIT Raipur, 2016-2020 
   
+Work experience
+======
+May 2022-
+Present
+
+**Graduate Teaching Fellow**, IIT Gandhinagar
+Course: Introduction to Analog and Digital Electronics
+Instructor: Dr.Jhuma Saha, Asst. Professor, IIT Gandhinagar
+
+Jan 2022-
+May 2022
+
+**Teaching Assistant**, IIT Gandhinagar
+Course: Writing
+Instructor: Dr.Leslee Lazar, Asst. Professor, IIT Gandhinagar
+
+Aug 2021-
+Nov 2021
+
+**Teaching Assistant**, IIT Gandhinagar
+Course: Analog circuits
+Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
+
+May 2021-
+July 2021
+
+**Teaching Assistant**, IIT Gandhinagar
+Course: Introduction to Analog and Digital Electronics
+Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
+
+May 2019-
+June 2019
+
+**SURGE 2019**, IIT Kanpur
+Topic: Event-driven simulation for optical networks
+Guide: Dr.Yatindra Nath Singh, Professor, IIT Kanpur
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
