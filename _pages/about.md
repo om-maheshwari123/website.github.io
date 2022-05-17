@@ -15,7 +15,8 @@ Research interests
 Education
 ======
 * **PhD in Electrical Engineering**, IIT Gandhinagar, 2020-present
-* **B.Tech in Electronics and Telecommunication"**, NIT Raipur, 2016-2020   
+* **B.Tech in Electronics and Telecommunication**, NIT Raipur, 2016-2020 
+  
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
