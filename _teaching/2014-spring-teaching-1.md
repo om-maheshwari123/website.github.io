@@ -4,8 +4,8 @@ title: "Work experience"
 excerpt: "Work experience"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /Work experience/
+  - /teaching.html
 ---
 
 
