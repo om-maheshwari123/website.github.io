@@ -1,5 +1,10 @@
 
-
+---
+layout: archive
+title: "Work experience"
+permalink: /teaching.html/
+author_profile: true
+---
 
 Work experience
 ======
