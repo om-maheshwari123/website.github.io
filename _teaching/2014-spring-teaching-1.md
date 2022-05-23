@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Work experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,13 +8,39 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Work experience
 ======
+* **May 2022-
+Present:** **Graduate Teaching Fellow**, IIT Gandhinagar
 
-Heading 2
-======
+  * Course: Introduction to Analog and Digital Electronics
 
-Heading 3
-======
+  * Instructor: Dr.Jhuma Saha, Asst. Professor, IIT Gandhinagar
+
+* **Jan 2022-
+May 2022:** **Teaching Assistant**, IIT Gandhinagar
+
+  * Course: Writing
+
+  * Instructor: Dr.Leslee Lazar, Asst. Professor, IIT Gandhinagar
+
+* **Aug 2021-
+Nov 2021:** **Teaching Assistant**, IIT Gandhinagar
+ 
+  * Course: Analog circuits
+
+  * Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
+
+* **May 2021-
+July 2021:** **Teaching Assistant**, IIT Gandhinagar
+
+  * Course: Introduction to Analog and Digital Electronics
+
+  * Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
+
+* **May 2019-
+June 2019:** **SURGE 2019**, IIT Kanpur
+
+  * Topic: Event-driven simulation for optical networks
+
+  * Guide: Dr.Yatindra Nath Singh, Professor, IIT Kanpur
