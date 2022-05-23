@@ -1,9 +1,8 @@
 
 ---
-layout: archive
 title: "Work experience"
-permalink: /teaching/
-author_profile: true
+collection: teaching
+permalink: /teaching/2014-spring-teaching-1
 
 ---
 
