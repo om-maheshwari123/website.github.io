@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "D Sharda Devi / D SHarda Devi"
+title                    : "D Sharda Devi"
 title_separator          : "-"
 name                     : &name "D Sharda Devi"
-description              : &description "Prime Minister Research Fellow, Electricaln Engineering, IIT Gandhinagar "
+description              : &description "Prime Minister Research Fellow, Electrical Engineering, IIT Gandhinagar "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dshardadevi/dshardadevi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "D Sharda Devi "
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Prime Minister Research Fellow, Electrical Engineering, IIT Gandhinagar "
+  location         : "nanoDC Lab, 5/207, IITGN"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
