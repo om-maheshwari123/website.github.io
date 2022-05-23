@@ -85,8 +85,8 @@ author:
   bio              : "Prime Minister Research Fellow, Electrical Engineering, IIT Gandhinagar "
   location         : "nanoDC Lab, 5/207, IITGN"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : &email "dsharda.d@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
