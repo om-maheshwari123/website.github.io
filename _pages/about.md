@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /[about.html](https://dshardadevi.github.io/)
 ---
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. NIhar Ranjan Mohapatra](https://iitgn.ac.in/faculty/ee/fac-nihar). I currently work on designing an efficient Reconfigurable FET.
