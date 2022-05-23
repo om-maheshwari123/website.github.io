@@ -54,3 +54,6 @@ Relevant courses
  ⇒ Analog CMOS IC design
 
  ⇒ Microfabrication
+ 
+ ⇒ Quantum Chemistry
+ 
