@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: "Work experience"
-permalink: /teaching.html/
+permalink: /teaching/
 author_profile: true
 
 ---
