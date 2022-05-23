@@ -4,7 +4,7 @@ title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - [dshardadevi/about/](https://github.com/dshardadevi/dshardadevi.github.io/edit/master/_pages/about)
   - /[about.html](https://dshardadevi.github.io/)
 ---
 
