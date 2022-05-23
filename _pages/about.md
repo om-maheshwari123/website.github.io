@@ -58,7 +58,7 @@ Technical skills
 ======
 **EDA Tools -** Synopsys Quantum ATK, Synopsys TCAD, Cadence Virtuoso, Synopsys dc-shell, Synopsys
 
-VCS, Xilinx ISE Design Suite, MATLAB
+VCS, Xilinx ISE Design Suite, MATLAB, LTSpice
 
 **Programming -** Python3, Verilog, C++, My SQL, LISP, HTML
 
