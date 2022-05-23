@@ -1,12 +1,4 @@
----
-permalink: /
-title: "Work experience"
-excerpt: "Work experience"
-author_profile: true
-redirect_from: 
-  - /Work experience/
-  - /teaching.html
----
+
 
 
 Work experience
