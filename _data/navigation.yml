@@ -1,12 +1,10 @@
 # main links links
 main:
    
-
   - title: "Work experience"
     url: /teaching/
   - title: "Patents"
-    url: /portfolio/
-        
+    url: /portfolio/ 
   - title: "Achievement"
     url: /year-archive/
     
