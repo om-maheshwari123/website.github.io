@@ -4,8 +4,6 @@ title: "Work experience"
 author_profile: true
 
 ---
-Work experience
-======
 * **May 2022-
 Present:** **Graduate Teaching Fellow**, IIT Gandhinagar
 
