@@ -1,7 +1,6 @@
 ---
 permalink: /teaching/
 title: "Work experience"
-excerpt: "Work experience"
 author_profile: true
 
 ---
