@@ -37,6 +37,10 @@ VCS, Xilinx ISE Design Suite, MATLAB, LT-Spice
 
 Relevant courses
 ======
+ ⇒ Analog CMOS IC design
+
+ ⇒ Microfabrication
+
  ⇒ Digital System Design
 
  ⇒ VLSI Design
@@ -44,10 +48,6 @@ Relevant courses
  ⇒ Physics of Transistors
 
  ⇒ Microelectronics lab
-
- ⇒ Analog CMOS IC design
-
- ⇒ Microfabrication
  
  ⇒ Quantum Chemistry
  
