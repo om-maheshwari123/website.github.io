@@ -41,8 +41,6 @@ Relevant courses
 
  ⇒ Microfabrication
 
- ⇒ Digital System Design
-
  ⇒ VLSI Design
 
  ⇒ Physics of Transistors
@@ -54,6 +52,8 @@ Relevant courses
  ⇒ Electronic Devices and Circuits
 
  ⇒ Analog Integrated Circuits
+ 
+ ⇒ Digital System Design
  
  ⇒ Probability and Stochastic Processes
  
