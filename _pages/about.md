@@ -37,15 +37,9 @@ VCS, Xilinx ISE Design Suite, MATLAB, LT-Spice
 
 Relevant courses
 ======
- ⇒ Electronic Devices and Circuits
-
- ⇒ Analog Integrated Circuits
-
  ⇒ Digital System Design
 
  ⇒ VLSI Design
-
- ⇒ Probability and Stochastic Processes
 
  ⇒ Physics of Transistors
 
@@ -56,4 +50,10 @@ Relevant courses
  ⇒ Microfabrication
  
  ⇒ Quantum Chemistry
+ 
+ ⇒ Electronic Devices and Circuits
+
+ ⇒ Analog Integrated Circuits
+ 
+ ⇒ Probability and Stochastic Processes
  
