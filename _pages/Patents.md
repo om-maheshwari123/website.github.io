@@ -1,4 +1,9 @@
+---
+permalink: /Patents/
+title: ""
+author_profile: true
 
+---
 Patents
 ======
 * 29th June 2019: **Solar Chulha**, Indian Patent, Application No. **201921026041**
