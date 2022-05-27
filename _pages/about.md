@@ -8,7 +8,7 @@ redirect_from:
   - /about.html/
 ---
 
-I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. NIhar Ranjan Mohapatra](https://iitgn.ac.in/faculty/ee/fac-nihar). I currently work on designing an efficient Reconfigurable FET.
+I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](https://iitgn.ac.in/faculty/ee/fac-nihar). I currently work on designing an efficient Reconfigurable FET.
 * [Detailed CV](https://drive.google.com/file/d/15kxLZhZ25j6JnQfign0i_MUnI9e488YQ/view)
 
 
