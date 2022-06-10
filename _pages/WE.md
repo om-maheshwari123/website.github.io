@@ -9,21 +9,21 @@ Present:** **Graduate Teaching Fellow**, IIT Gandhinagar
 
   * Course: Introduction to Analog and Digital Electronics
 
-  * Instructor: Dr.Jhuma Saha & Dr.Tarun Kumar Agarwal, Asst. Professor, IIT Gandhinagar
+  * Instructor: Dr. Jhuma Saha & Dr. Tarun Kumar Agarwal, Asst. Professor, IIT Gandhinagar
 
 * **Aug 2021-
 Nov 2021:** **Teaching Assistant**, IIT Gandhinagar
  
   * Course: Physics of Transistors
 
-  * Instructor: Dr.Tarun Kumar Agarwal, Asst. Professor, IIT Gandhinagar
+  * Instructor: Dr. Tarun Kumar Agarwal, Asst. Professor, IIT Gandhinagar
 
 * **May 2021-
 July 2021:** **Teaching Assistant**, IIT Gandhinagar
 
   * Course: Introduction to Analog and Digital Electronics
 
-  * Instructor: Dr.Himanshu Shekhar, Asst. Professor, IIT Gandhinagar
+  * Instructor: Dr. Himanshu Shekhar, Asst. Professor, IIT Gandhinagar
 
 * **June 2019-
 July 2019:** **Summer Trainee**, Bharat Heavy Electricals Limited, Haridwar
