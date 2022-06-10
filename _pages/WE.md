@@ -9,34 +9,28 @@ Present:** **Graduate Teaching Fellow**, IIT Gandhinagar
 
   * Course: Introduction to Analog and Digital Electronics
 
-  * Instructor: Dr.Jhuma Saha, Asst. Professor, IIT Gandhinagar
-
-* **Jan 2022-
-May 2022:** **Teaching Assistant**, IIT Gandhinagar
-
-  * Course: Writing
-
-  * Instructor: Dr.Leslee Lazar, Asst. Professor, IIT Gandhinagar
+  * Instructor: Dr.Jhuma Saha & Dr.Tarun Kumar Agarwal, Asst. Professor, IIT Gandhinagar
 
 * **Aug 2021-
 Nov 2021:** **Teaching Assistant**, IIT Gandhinagar
  
-  * Course: Analog circuits
+  * Course: Physics of Transistors
 
-  * Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
+  * Instructor: Dr.Tarun Kumar Agarwal, Asst. Professor, IIT Gandhinagar
 
 * **May 2021-
 July 2021:** **Teaching Assistant**, IIT Gandhinagar
 
   * Course: Introduction to Analog and Digital Electronics
 
-  * Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
+  * Instructor: Dr.Himanshu Shekhar, Asst. Professor, IIT Gandhinagar
 
-* **May 2019-
-June 2019:** **SURGE 2019**, IIT Kanpur
+* **June 2019-
+July 2019:** **Summer Trainee**, Bharat Heavy Electricals Limited, Haridwar
 
-  * Topic: Event-driven simulation for optical networks
+  * Topic: Computerized Numeric Control
 
-  * Guide: Dr.Yatindra Nath Singh, Professor, IIT Kanpur
+  * Guide: Shri P.C. Sinha, Deputy Manager, BHEL, Haridwar
+  * Summer Intern, Bharat Heavy Electricals Limited, Haridwar
 
 
