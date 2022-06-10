@@ -8,50 +8,56 @@ redirect_from:
   - /about.html/
 ---
 
-I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](https://iitgn.ac.in/faculty/ee/fac-nihar). I currently work on designing an efficient Reconfigurable FET.
-* [Detailed CV](https://drive.google.com/file/d/15kxLZhZ25j6JnQfign0i_MUnI9e488YQ/view)
+I am a Research Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar working with [Prof. Nihar Ranjan Mohapatra](http://people.iitgn.ac.in/~nihar/). My research interest is Advanced Semiconductor Process Optimisation through Machine Learning.
+* [Detailed CV](https://drive.google.com/file/d/1oa5Li_SKB4-LjE642QYJlLHjvAHtwaIr/view?usp=sharing)
 
 
 Research interests
 ======
- ⇒ 2D materials and devices
+ ⇒ Advanced Semiconductor Devices
 
- ⇒ 2D Reconfigurable FETs
+ ⇒ Semiconductor Processes
+ 
+ ⇒ Application of Machine Learning in Semiconductor Research
 
  ⇒ Nanoscale devices
 
- ⇒ High throughput computational devices and circuits
+ ⇒ 2D Materials based FETs
 
 Education
 ======
-* **PhD in Electrical Engineering**, IIT Gandhinagar, 2020-present
-* **B.Tech in Electronics and Telecommunication**, NIT Raipur, 2016-2020 
+* **PhD in Electrical Engineering**, IIT Gandhinagar, January 2021-present
+* **B.Tech in Electronics and Communication Enineering**, College of Technology, GBPUA&T, 2016-2020 
   
 Technical skills
 ======
-**EDA Tools -** Synopsys Quantum ATK, Synopsys TCAD, Cadence Virtuoso, Synopsys dc-shell, Synopsys VCS, Xilinx ISE Design Suite, MATLAB, LT-Spice
+**EDA Tools -** Synopsys TCAD, Cadence Virtuoso, Xilinx ISE Design Suite, MATLAB, LT-Spice, TINA, Arduino
 
-**Programming -** Python3, Verilog, C++, My SQL, LISP, HTML
+**Programming -** Python, Verilog, C, My SQL, LISP, HTML
 
 Relevant courses
 ======
+ ⇒ Physics of Transistors
+ 
+ ⇒ Microfabrication
+ 
+ ⇒ Machine Learning
+
  ⇒ Analog CMOS IC design
 
- ⇒ Microfabrication
-
  ⇒ VLSI Design
-
- ⇒ Physics of Transistors
-
+ 
  ⇒ Microelectronics lab
  
  ⇒ Quantum Chemistry
- 
- ⇒ Electronic Devices and Circuits
 
- ⇒ Analog Integrated Circuits
+ ⇒ Artificial Intelligence 
+
+ ⇒ Computing with Python
+
+ ⇒ Electronics Instrumentation
+
+
  
- ⇒ Digital System Design
- 
- ⇒ Probability and Stochastic Processes
+
  
